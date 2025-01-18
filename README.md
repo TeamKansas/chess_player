@@ -16,4 +16,6 @@ If you decide you do not want to move the currently selected piece, press 'q', t
 Castling: Castling is a ROOK's move in this program, not a King's move. Select the Rook by pressing space, then move the cursor to the King and press enter.
 This will perform the castling move if it is legal to do so.
 
+Press 'Q' to quit program. This currently does not have checkmate autoquit. Once in checkmate, quit the program.
+
 After a move is played, the program will wait approximately 0.6 seconds before flipping the board and beginning the opponents turn.
