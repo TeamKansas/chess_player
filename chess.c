@@ -434,7 +434,6 @@ void printAll(int8_t board[64], int8_t *select, int cursor, int8_t turn, int mod
     printf("q: un-select piece\n");
     printf("<Space>: Select piece\n");
     printf("<Enter>: Move selected piece to cursor\n\n");
-    printf("Normally allowed moves for that piece will be highlighted, but some of them may not be legal (e.g. moving the King through check)\n");
     printf("Allowed moves will only be highlighted for pieces that are currently in turn.\n\n");
     printf("Note on Castling: Castling is a Rook's move in this player. Select the rook, and then move the rook to the King to castle.");
     printf("\n___________________\n");
