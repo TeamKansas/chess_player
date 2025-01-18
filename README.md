@@ -1,6 +1,9 @@
 # chess_player
 This is a chess player. There is no bot; you can play against yourself or with a friend. It prints the board on the terminal, so put your terminal in big screen if you want it to look like a chess board. If your computer does not support colored text in the terminal, it won't print properly.
 
+To build: just compile chess.c.
+To Run: Execute the output file, and put your terminal in big screen.
+
 Controls:
 Red player starts the game in "piece select mode".
 Use 'w', 's', 'a', or 'd' to move the cursor. The cursor is a green square surrounding the tile it refers to.
